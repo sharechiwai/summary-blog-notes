@@ -21,6 +21,8 @@ googleAnalytics = "UA-6964597-13"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
+email="chi@sharechiwai.com"
+
 ############################
 ## Advanced options below ##
 ############################

@@ -50,7 +50,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-# email = "test@example.org"
+ email = "test@example.org"
 # phone = "888 888 88 88"
 address = "Hong Kong"
 
